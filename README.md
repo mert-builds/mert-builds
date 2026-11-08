@@ -1,7 +1,9 @@
 # Merhaba, ben Mert 👋
 
 🛠️ Yapay zeka otomasyonları kuruyorum: Claude Code, MCP, ajanlar ve vibe coding.
+
 🚀 Ustalar ve küçük işletmeler için [Trincus](https://www.trincus.com)'u kuruyorum.
+
 📱 Her gün Instagram'da kısa, uygulanabilir bir ipucu: [@mert.builds](https://www.instagram.com/mert.builds/)
 
 ## 📚 Rehberler
